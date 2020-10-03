@@ -52,4 +52,4 @@ Here we the multiple linear regression data analysis of the Cupertino dataset. A
 
 ![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/inc%20rate%20inc%20-%20cup.png)
 
-I used a scatterplot to visualize the way income predicts incarceration rate in Baltimore. As we can see in the graph here,
+I used a scatterplot to visualize the way income predicts incarceration rate in Baltimore. As we can see in the graph here, there are fewer datapoints compared to the Baltimore dataset so range of the income is much smaller. There is also more variance in the data and quite a few outliers so the trendline is not as in line with the shape of the data points.
