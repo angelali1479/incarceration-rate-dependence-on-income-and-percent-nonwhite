@@ -20,13 +20,20 @@ In order to determine whether the two independent variables chosen are actually 
 
 ### Baltimore
 
+#### Multiple Linear Regression Analysis
+
 ![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/baltimore%20mult%20lin%20reg.png)
 
-Here we have all the data from the multiple linear regression data analysis. As we can see, the R squared value is about 0.6 which means that about 60% of our data points can be predicted by the two independent variables. We also have a very small significance F, which means that the probability that our dependent variable won't be able to be predicted by the two independent variables is very small. The p-values for both independent variables are >0.05, meaning that both variables are significant enough to predict the dependent variable and we can use both independent variables in our final model. Using the coefficients from this data table, we can see that our formula would be: incarceration rate = -7.765E-07(Income) + 0.0278(Percent Non-White)
+Here we the multiple linear regression data analysis of the Baltimore dataset. As we can see, the R squared value is about 0.6 which means that about 60% of our data points can be predicted by the two independent variables. We also have a very small significance F, which means that the probability that our dependent variable won't be able to be predicted by the two independent variables is very small. The p-values for both independent variables are >0.05, meaning that both variables are significant enough to predict the dependent variable and we can use both independent variables in our final model. Using the coefficients from this data table, we can see that our formula would be: incarceration rate = -7.765E-07(Income) + 0.0278(Percent Non-White)
+
+#### Income and Incarceration Rate
 
 ![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/inc%20rate%20inc%20-%20balt.png)
 
 I used a scatterplot to visualize the way income predicts incarceration rate in Baltimore. As we can see in the graph here, there is definitely a clear shape and trend to the data points and the trendline on the graph is mostly in line with the data points. If we were to just look at the shape and not the linear trend line, we can surmise that the incarceration rate almost rises exponentially as income decreases. The p-value for this indepedent variable was very small, 76411E-025, so we can conclude that income is a significant predictor of incarceration rate.
+
+
+#### Percent Non-White Population and Incarceration Rate
 
 ![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/inc%20rate%20perc%20nonwh%20-%20balt.png)
 
@@ -34,4 +41,15 @@ I used a scatterplot to visualize the way percent non-white population predicts 
 
 ### Cupertino
 
+#### Multiple Linear Regression Analysis
 
+![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/cupertino%20mult%20lin%20reg.png)
+
+Here we the multiple linear regression data analysis of the Cupertino dataset. As we can see, the R squared value is only about 0.21 which means that about 21% of our data points can be predicted by the two independent variables. This is pretty low and so the results of our data analysis may show that the two independent variables aren't as good predictors for Cupertino as they were for Baltimore. We have a ] small significance F, which means that the probability that our dependent variable won't be able to be predicted by the two independent variables is very small. The p-values for only one independent variable, income, is >0.05, meaning that only income as an independent variable is significant enough to predict the dependent variable and we can only use income and not percent non-white population in our final model. Using the coefficients from this data table, we can see that our formula would be: incarceration rate = -1.785E-07(Income)
+
+
+#### Income and Incarceration Rate
+
+![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/inc%20rate%20inc%20-%20cup.png)
+
+I used a scatterplot to visualize the way income predicts incarceration rate in Baltimore. As we can see in the graph here,
