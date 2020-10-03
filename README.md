@@ -10,4 +10,7 @@ Can the incarceration rate in Cupertino and Baltimore be predicted by both house
   - [Baltimore Dataset](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/baltimore%20data%20final.xlsx)
   - [Cupertino Dataset](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/cupertino%20data%20final.xlsx)
 
-## Data Question
+## Data Analysis
+In order to determine whether the two independent variables chosen are actually able to predict incarceration rate, we need to look at a multiple linear regression analysis of both city's datasets.
+
+### Baltimore
