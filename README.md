@@ -4,6 +4,5 @@ In my last project, I looked at Cupertino and Baltimore's incarceration rate in 
 ## Business Question
 Can the incarceration rate in Cupertino and Baltimore be predicted by both household income and percent non-white population?
 ## Data
-I used data from Opportunity Atlas:
- - 
+ - [my directory](cupertino data final)
 ## Data Question
