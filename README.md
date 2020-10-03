@@ -54,4 +54,8 @@ Here we the multiple linear regression data analysis of the Cupertino dataset. A
 
 I used a scatterplot to visualize the way income predicts incarceration rate in Baltimore. As we can see in the graph here, there are fewer datapoints compared to the Baltimore dataset so range of the income is much smaller. There is also more variance in the data and quite a few outliers so the trendline is not as in line with the shape of the data points. Overall, we can assume from the scatterplot that income is not as a good of a predictor for Cupertino compared to Baltimore. We can also see this from the p-value for income from the multiple linear regression analysis; the p-value is 7.6411E-25 for Baltimore while for Cupertino it is 0.00066, much larger than Baltimore's.
 
+#### Percent Non-White Population and Incarceration Rate
 
+![alt text](https://github.com/angelali1479/incarceration-rate-dependence-on-income-and-percent-nonwhite/blob/main/inc%20rate%20perc%20nonwh%20-%20cup.png)
+
+I used a scatterplot to visualize the way percent non-white population predicts incarceration rate in Cupertino. As we can see in the graph above,
